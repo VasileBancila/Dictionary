@@ -1,0 +1,14 @@
+button {
+    background-color: cadetblue;
+    padding: 15px 25px;
+    border: 2px solid black;
+    border-radius: 20%;
+    display: inline-block;
+    margin-top: 2%;
+    margin-right: 2%;
+}
+
+body {
+    background-color: bisque;
+    text-align: center;
+}
